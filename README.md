@@ -8,3 +8,5 @@ The json files in this repo are simply examples of the usage of the app and don'
 Hope this saves you some peace of mind when dividing expenses at the end of a trip.
 
 Project made during 2nd year of INSA engineering school
+
+Teste de pull request e aprendendo a usar git
