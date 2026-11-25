@@ -10,3 +10,7 @@ Hope this saves you some peace of mind when dividing expenses at the end of a tr
 Project made during 2nd year of INSA engineering school
 
 Teste de pull request e aprendendo a usar git
+
+Teste de pull #2
+
+importante para aprender a usar git
